@@ -1,4 +1,4 @@
-# Packer Plugin Azure
+ # Packer Plugin Azure
 The `Azure` multi-component plugin can be used with HashiCorp [Packer](https://www.packer.io)
 to create custom images. For the full list of available features for this plugin see [docs](docs).
 
